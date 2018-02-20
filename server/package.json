@@ -1,0 +1,20 @@
+{
+  "name": "sticker-server",
+  "version": "0.0.1",
+  "description": "server side code for the sticker image labeling system",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.198.0",
+    "graphql": "^0.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "graphql"
+  ],
+  "author": "phouse512",
+  "license": "ISC"
+}
