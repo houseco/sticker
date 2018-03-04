@@ -1,2 +1,3 @@
 flyway_conf/houseco_prod.conf
 *.swp
+**.idea/
